@@ -10,6 +10,7 @@
 <p align = "center">
 
  ## Ваще азиатки(японки и кореянки) > славянок.  Кто не согласен - идите нахуй! А я слушать itzy и twice
- <img src = "https://i.ibb.co/LN6CMhY/200x200.png" align = "center">
+ <p align = "center">
+ <img src = "https://i.ibb.co/LN6CMhY/200x200.png" width = "300px">
 </p>
 
