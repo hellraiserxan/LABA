@@ -12,12 +12,16 @@
 
 
     mkdir laba
- 
-    cd laba
+<hr style="border: none; border-top: 1px dotted #000;"/>
     
+    cd laba
+<hr style="border: none; border-top: 1px dotted #000;"/>
+   
     mkdir laba(№)_name
+<hr style="border: none; border-top: 1px dotted #000;"/>    
     
     cd laba(№)_name
+<hr style="border: none; border-top: 1px dotted #000;"/>    
     
     code .
 
