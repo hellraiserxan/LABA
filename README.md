@@ -10,6 +10,13 @@ only that time was real
  <p align = "center">
   <img src = "https://i.ibb.co/1G2Q6zk/image.jpg" width = "300px">
 </p>
+ <p align = "center">
+  <img src = "https://i.ibb.co/0KDT4Xm/image.jpg" width = "300px">
+</p>
+ <p align = "center">
+  <img src = "https://i.ibb.co/0qLbtGS/image.jpg" width = "300px">
+</p>
+
 
 ## Gutter er resultatet, vi sees på markedet
 
