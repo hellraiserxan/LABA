@@ -8,7 +8,7 @@ Lowlife, lowlife, lowlife
 Oh, oh
 I'll do anything 
  <p align = "center">
-  <img src = "https://i.ibb.co/1G2Q6zk/image.jpg" width = "700px">
+  <img src = "https://i.ibb.co/1G2Q6zk/image.jpg" width = "300px">
 </p>
 
 ## Gutter er resultatet, vi sees på markedet
