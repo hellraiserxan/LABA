@@ -2,6 +2,15 @@
 
  # РЕПОЗИТОРИЙ ЛАБ И ОТЧЕТОВ ДЛЯ МЕНЯ, МАРТИНА И ДИМАСА
 
+## Щас бы пройтись под трек yung lean Low, с гранатовым гаражом в декабре по советской до лицея и встретиться с лучшими людьми, которых я встречал, а не это все...
+Oh
+Lowlife, lowlife, lowlife
+Oh, oh
+I'll do anything 
+ <p align = "center">
+  <img src = "https://i.ibb.co/1G2Q6zk/image.jpg" width = "700px">
+</p>
+
 ## Gutter er resultatet, vi sees på markedet
 
 
