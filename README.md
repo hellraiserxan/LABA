@@ -4,9 +4,8 @@
 
 ## сейчас бы пройтись под трек yung lean Low, с гранатовым гаражом в декабре по советскому проспекту до лицея и встретиться с лучшими людьми, которых я когда-либо встречал, а не это все...
 Oh
-Lowlife, lowlife, lowlife
-Oh, oh
-I'll do anything 
+tryna get my childhood back
+it is gone..
  <p align = "center">
   <img src = "https://i.ibb.co/1G2Q6zk/image.jpg" width = "300px">
 </p>
